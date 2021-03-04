@@ -46,3 +46,17 @@ body {
   background: white;
   padding: 1em;
 }
+
+#footer {
+  width: 70%;
+  margin: 0 auto;
+  background: #17A589;
+  color: white;
+  text-align: center;
+  padding: 0.5em 0;
+  border: 1px solid #DDD;
+}
+
+#footer p {
+  font-size: 16px;
+}
