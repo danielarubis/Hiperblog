@@ -1,2 +1,2 @@
 # hyperblog
-Un blog increíble para el Curso Profesional de Git y Github de Platzi
+Este repo es para practicar lo aprendido en las clases del Curso Profesional de Git y Github
